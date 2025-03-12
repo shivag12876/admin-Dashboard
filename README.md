@@ -1,1 +1,1 @@
-# admin-Dashboard
+packages/core/README.md
